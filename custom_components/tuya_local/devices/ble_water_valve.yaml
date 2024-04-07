@@ -13,9 +13,10 @@
 # "117": "OFF"   rain (d)
 
 name: Single water timer
+legacy_type: ble_johgee_water_valve
 products:
   - id: bfc513e1f9d4d259a10wzu
-    name: Diivoo WT-03
+    name: Diivoo Water Timer Valve WT-03
 primary_entity:
   entity: valve
   class: water
