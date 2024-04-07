@@ -4,8 +4,8 @@ products:
   - id: c8800fd30884068f
     name: Johgee Water Timer Valve
   - id: bfc513e1f9d4d259a10wzu
-    name: Diivoo Water Timer Valve WT-03
-  - id: nxquc5lb
+  #   name: Diivoo Water Timer Valve WT-03
+  # - id: nxquc5lb
     name: SOP10
   - id: so5ybnw9
     name: BWC-495.bt Royal Gardineer
